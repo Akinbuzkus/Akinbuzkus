@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Akinbuzkus
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me akin.buzkus353@gmail.com.
+- 🌱 I’m currently student at Akdeniz University
+- 💞️ I’m currently learning java
+- 📫 How to reach me akin.buzkus353@gmail.com. @https://www.linkedin.com/in/akinbuzkus/
 
 <!---
 Akinbuzkus/Akinbuzkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
